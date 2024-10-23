@@ -57,7 +57,11 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 ## OUTPUT:
 <img width="304" alt="iter1" src="https://github.com/user-attachments/assets/a440e74b-3676-4c77-afd6-75edbd426d5e">
 
+
+
 <img width="419" alt="iter2" src="https://github.com/user-attachments/assets/bdace43a-122a-46b0-a7cb-8efcc723e3bd">
+
+
 
 <img width="308" alt="iter3" src="https://github.com/user-attachments/assets/ed6d50f2-9a93-43d4-94a9-38e5a9ee36ac">
 
